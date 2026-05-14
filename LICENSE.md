@@ -1,4 +1,4 @@
-# 
+# vip auto-leverage trading bot Plugin | API-integration + grid-trading is the best auto-leverage trading bot, featuring API-integration and grid-trading. Smart, fast, and optimized
 
 
 
